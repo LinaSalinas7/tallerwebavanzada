@@ -41,10 +41,10 @@ const index = () => {
 					<Divider />
 					<div className="listUsers">
 						<List>
-							<ListItemText primary="User" />
-							<ListItemText primary="User2" />
-							<ListItemText primary="User3" />
-							<ListItemText primary="User4" />
+							<ListItemText primary="Message" />
+							<ListItemText primary="Message2" />
+							<ListItemText primary="Message3" />
+							<ListItemText primary="Message4" />
 						</List>
 					</div>
 				</header>
