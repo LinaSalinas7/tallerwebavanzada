@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 
-const login = () => {
+const Login = () => {
 	return (
 		<section className="cv">
 			<article>
@@ -50,4 +50,4 @@ const login = () => {
 		</section>
 	);
 };
-export default login;
+export default Login;

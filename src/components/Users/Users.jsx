@@ -8,7 +8,7 @@ import Divider from '@mui/material/Divider';
 import List from '@mui/material/List';
 import ListItemText from '@mui/material/ListItemText';
 
-const user = () => {
+const Users = () => {
 	return (
 		<section className="cv">
 			<header className="leftPanel">
@@ -50,4 +50,4 @@ const user = () => {
 	);
 };
 
-export default user;
+export default Users;
